@@ -1,0 +1,17 @@
+   
+Read Instruction carefully the create scripts
+
+       1.User Should select any one browser and Open 
+	 URL "https://www.letskodeit.com/practice" 
+		a.Chrome Browser
+		b.Edge
+	2. Count number Radio buttons and Check boxes and print 
+	3. Move hand over on "Mouse Hover" then click on 'Reload'
+	4. Enter "Selenium Python" in Editbox Validate both Alerts
+        5. Take Screen shots of each and every steps
+        6. Print Page Title, Get page Source and Page Source length 
+        7. Validate the title with "Practice Page"
+        8. Take Screenshot of each steps
+        9. Click Terms and Conditions and then Click Sign in
+           enter proper credientails then sign in
+        9. Close the Browser Run and Validate test scripts       

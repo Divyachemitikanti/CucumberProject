@@ -1,0 +1,10 @@
+Smoke Testing:
+Main Functionalities of Swiggy Application
+   1.Food Delivery:
+       Restaurant Search
+       Menu Browsing
+       Order Placement
+   2. Swiggy Instamart
+       Grocery Delivery
+       Category based Shopping
+
